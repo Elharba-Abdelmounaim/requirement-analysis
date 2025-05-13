@@ -54,3 +54,29 @@ The Requirement Analysis phase involves several critical activities that ensure 
 
 - **Requirement Documentation**  
   All gathered and elicited requirements are documented clearly and systematically. This documentation acts as a
+## Types of Requirements
+
+In software development, requirements are generally categorized into two main types: Functional and Non-functional. Understanding the distinction between them is essential for building a system that meets user needs and performs reliably.
+
+### Functional Requirements
+
+Functional requirements describe **what the system should do**. They define specific behaviors, features, or functions that the software must perform.
+
+**Examples for Booking Management Project:**
+- The system shall allow users to create a new booking for a hotel room or flight.
+- Users shall be able to cancel or modify their existing bookings.
+- The system shall send confirmation emails to users after successful booking.
+- Admins shall be able to view, update, and delete bookings.
+- The system shall allow users to filter available rooms by date, location, and price range.
+
+### Non-functional Requirements
+
+Non-functional requirements describe **how the system performs** its functions. They relate to quality attributes such as performance, usability, reliability, and security.
+
+**Examples for Booking Management Project:**
+- The system shall respond to booking requests within 2 seconds under normal load.
+- The application shall be available 99.9% of the time (high availability).
+- The user interface shall support both English and French languages.
+- The system shall handle at least 10,000 concurrent users without crashing.
+- All user data shall be encrypted in transit and at rest for security compliance.
+
