@@ -42,3 +42,15 @@ Well-defined requirements make it easier to estimate project timelines, resource
 When software is built based on accurate and complete requirements, it is more likely to meet user expectations and business goals. This leads to higher user satisfaction and reduces the need for post-launch fixes.
 
 Effective requirement analysis is not just a preliminary step—it is a continuous process that guides the entire development lifecycle and increases the chances of project success.
+## Key Activities in Requirement Analysis
+
+The Requirement Analysis phase involves several critical activities that ensure the project starts with a clear understanding of what needs to be built. Here are the five key activities:
+
+- **Requirement Gathering**  
+  This is the initial step where stakeholders such as clients, users, and subject matter experts are identified, and their expectations are collected. Techniques like interviews, questionnaires, and surveys are often used.
+
+- **Requirement Elicitation**  
+  Elicitation focuses on drawing out the actual requirements from stakeholders, often through workshops, brainstorming sessions, and observation. It aims to uncover needs that may not be initially expressed.
+
+- **Requirement Documentation**  
+  All gathered and elicited requirements are documented clearly and systematically. This documentation acts as a
