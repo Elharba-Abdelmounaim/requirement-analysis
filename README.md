@@ -89,6 +89,28 @@ Use Case Diagrams are a type of Unified Modeling Language (UML) diagram used dur
 - Help identify system boundaries and interactions.
 - Enhance communication between stakeholders, developers, and testers.
 - Serve as a foundation for writing detailed use cases and test cases.
+## Acceptance Criteria
+
+Acceptance Criteria are specific conditions or requirements that a product or feature must satisfy to be accepted by the user, client, or stakeholders. They act as a checklist that clearly defines when a feature is "done" and ensures that all team members have a common understanding of the scope and expected outcomes.
+
+### 📌 Importance of Acceptance Criteria:
+- Clarify functionality and business rules before development starts.
+- Help avoid misunderstandings between developers, testers, and stakeholders.
+- Serve as the basis for writing test cases.
+- Ensure that requirements are testable and verifiable.
+
+### ✅ Example: Acceptance Criteria for the Checkout Feature
+
+**Feature**: Checkout in the Booking Management System
+
+**Acceptance Criteria:**
+- ✅ The user must be able to review selected items (e.g., hotel room or flight) before confirming the checkout.
+- ✅ The checkout page must display the total price, taxes, and fees clearly.
+- ✅ The user must be able to enter and save payment information securely.
+- ✅ A confirmation email must be sent upon successful checkout.
+- ✅ The booking should appear under the user’s profile immediately after checkout.
+- ✅ If payment fails, an appropriate error message should be displayed and no booking should be created.
+
 
 ### 🧩 Use Case Diagram for the Booking System
 
